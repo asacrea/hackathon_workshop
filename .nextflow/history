@@ -1,0 +1,4 @@
+2025-03-22 16:41:04	850ms	sad_shirley	OK	e56486d5c6042631ea3438fb1fc70aa4	38c09666-e59e-4f08-8a94-3fadb7c4f696	nextflow run hello.nf
+2025-03-22 16:49:57	1.6s	maniac_lichterman	ERR	e56486d5c6042631ea3438fb1fc70aa4	5fc090ad-d6ef-4215-ad19-80db8c9cd7d6	nextflow run hello.nf
+2025-03-22 16:51:38	28.6s	nauseous_noether	ERR	b5acd424f4be296d8c598e4e93e35228	f08b5c12-64d0-41a3-a5da-9212dc3b344e	nextflow run pipeline.nf -profile docker
+2025-03-22 16:51:57	11.5s	fabulous_brenner	ERR	b5acd424f4be296d8c598e4e93e35228	e31769fd-492f-4e85-b038-ef43a7ecd508	nextflow run pipeline.nf -profile docker

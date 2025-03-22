@@ -1,0 +1,9 @@
+Unable to find image 'biocontainers/samtools:v1.9-4-deb_cv1' locally
+v1.9-4-deb_cv1: Pulling from biocontainers/samtools
+478cd0aa93c0: Already exists
+94d6a239eb0e: Already exists
+e8e87313e9cb: Already exists
+1badce2e48be: Already exists
+732b6ad56c57: Already exists
+f464fdba1cc8: Already exists
+a955c5be8430: Pulling fs layer

@@ -1,0 +1,18 @@
+
+ N E X T F L O W   ~  version 24.10.5
+
+Launching `pipeline.nf` [nauseous_noether] DSL2 - revision: b5acd424f4
+
+[-        ] processData -
+
+executor >  local (1)
+[3f/b08425] processData (1) | 0 of 1
+
+executor >  local (1)
+[3f/b08425] processData (1) | 0 of 1
+slurmstepd-hackathon-2: error: *** JOB 1 ON hackathon-2 CANCELLED AT 2025-03-22T16:52:06 ***
+WARN: Killing running tasks (1)
+
+executor >  local (1)
+[3f/b08425] processData (1) | 0 of 1
+

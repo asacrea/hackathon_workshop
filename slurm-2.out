@@ -1,0 +1,17 @@
+
+ N E X T F L O W   ~  version 24.10.5
+
+Launching `pipeline.nf` [fabulous_brenner] DSL2 - revision: b5acd424f4
+
+[-        ] processData -
+
+[-        ] processData | 0 of 1
+
+executor >  local (1)
+[11/f50ae1] processData (1) | 0 of 1
+slurmstepd-hackathon-2: error: *** JOB 2 ON hackathon-2 CANCELLED AT 2025-03-22T16:52:08 ***
+WARN: Killing running tasks (1)
+
+executor >  local (1)
+[11/f50ae1] processData (1) | 0 of 1
+
